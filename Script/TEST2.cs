@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TEST2 : MonoBehaviour {
+public class TEST2 : MonoBehaviour
+{
 
+    int B;
 	// Use this for initialization
 	void Start () {
 		
