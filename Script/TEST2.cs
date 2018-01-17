@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class TEST2 : MonoBehaviour {
 
-
     int a;
     int c;
-	// Use this for initialization
-	void Start () {
+
+    public GameObject Song1;
+    public GameObject Song2;
+    // Use this for initialization
+    void Start () {
 		
 	}
 	
