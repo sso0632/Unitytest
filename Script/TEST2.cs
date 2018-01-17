@@ -6,6 +6,7 @@ public class TEST2 : MonoBehaviour {
 
 
     int a;
+    int c;
 	// Use this for initialization
 	void Start () {
 		
