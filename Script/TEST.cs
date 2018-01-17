@@ -4,8 +4,12 @@ using UnityEngine;
 
 public class TEST : MonoBehaviour {
 
+    public GameObject SongB;
 	// Use this for initialization
 	void Start () {
+
+        
+
         Debug.Log("장우철 바보");
     }
 	
