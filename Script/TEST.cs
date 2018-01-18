@@ -8,11 +8,9 @@ public class TEST : MonoBehaviour {
     int test;
     int test2;
     int s;
+
 	// Use this for initialization
 	void Start () {
-
-        
-
         Debug.Log("장우철 바보");
     }
 	
