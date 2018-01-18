@@ -7,12 +7,9 @@ public class TEST : MonoBehaviour {
     public GameObject SongB;
     int test;
     int test2;
-    int t;
+
 	// Use this for initialization
 	void Start () {
-
-        
-
         Debug.Log("장우철 바보");
     }
 	
