@@ -21,7 +21,7 @@ public class TEST : MonoBehaviour {
 	}
     void testfunction()
     {
-        Debug.log("ㅁㅈㅇㅁ");
+        Debug.Log("ㅁㅈㅇㅁ");
         Debug.Log("ㅋㅋㅋㅋ");
     }
 }
