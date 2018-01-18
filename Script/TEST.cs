@@ -10,11 +10,11 @@ public class TEST : MonoBehaviour {
     int j;
     int i2;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start()
+    {
         Debug.Log("장우철 바보");
     }
-	
 	// Update is called once per frame
 	void Update () {
 		
