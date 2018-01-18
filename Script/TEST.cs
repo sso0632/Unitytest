@@ -17,4 +17,8 @@ public class TEST : MonoBehaviour {
 	void Update () {
 		
 	}
+    void testfunction()
+    {
+        Debug.Log("ㅋㅋㅋㅋ");
+    }
 }
