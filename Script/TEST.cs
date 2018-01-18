@@ -8,6 +8,7 @@ public class TEST : MonoBehaviour {
     int test;
     int test2;
     int j;
+    int i2;
 
 	// Use this for initialization
 	void Start () {
