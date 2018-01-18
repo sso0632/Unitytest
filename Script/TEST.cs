@@ -22,6 +22,5 @@ public class TEST : MonoBehaviour {
     {
         Debug.log("ㅁㅈㅇㅁ");
         Debug.Log("ㅋㅋㅋㅋ");
-
     }
 }
