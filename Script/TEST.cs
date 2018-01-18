@@ -9,7 +9,7 @@ public class TEST : MonoBehaviour {
     int test2;
     int j;
     int i2;
-
+    int ii1;
     // Use this for initialization
     void Start()
     {
