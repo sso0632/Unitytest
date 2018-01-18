@@ -9,9 +9,6 @@ public class TEST : MonoBehaviour {
     int test2;
     int j;
 
-
-
-    int i2;
 	// Use this for initialization
 	void Start () {
         Debug.Log("장우철 바보");
@@ -23,6 +20,7 @@ public class TEST : MonoBehaviour {
 	}
     void testfunction()
     {
+        Debug.log("ㅁㅈㅇㅁ");
         Debug.Log("ㅋㅋㅋㅋ");
     }
 }
