@@ -6,7 +6,7 @@ public class TEST : MonoBehaviour {
 
     public GameObject SongB;
     int test;
-    int test3;
+    int test2;
 	// Use this for initialization
 	void Start () {
 
