@@ -9,11 +9,11 @@ public class TEST : MonoBehaviour {
     int test2;
     int j;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start()
+    {
         Debug.Log("장우철 바보");
     }
-	
 	// Update is called once per frame
 	void Update () {
 		
@@ -22,5 +22,6 @@ public class TEST : MonoBehaviour {
     {
         Debug.log("ㅁㅈㅇㅁ");
         Debug.Log("ㅋㅋㅋㅋ");
+
     }
 }
