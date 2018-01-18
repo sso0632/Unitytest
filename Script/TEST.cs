@@ -5,6 +5,7 @@ using UnityEngine;
 public class TEST : MonoBehaviour {
 
     public GameObject SongB;
+    int test;
 	// Use this for initialization
 	void Start () {
 
